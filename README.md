@@ -42,7 +42,7 @@ Example:
 
 `#outputs testTrack_pth.shp`
 
-`mapmatcher.exportPath(opt, 'testTrack.shp')`
+`mapmatcher.exportPath(opt, 'testTrack_pth.shp')`
 
 The last method saves a new shape file named _testTrack_pth.shp_ in the current arcpy workspace, containing a sequence of segments to which the track was mapped.
 
